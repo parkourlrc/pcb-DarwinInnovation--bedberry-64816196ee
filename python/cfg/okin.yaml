@@ -1,0 +1,13 @@
+mcp_port: okin.output
+acc_name: phidget
+max_move_duration: 50
+head:
+  up: 0
+  down: 2
+feet:
+  up: 1
+  down: 3
+platform:
+  up: 4
+  down: 5
+presetAngles: [40, 35, 30, 22, 15, 8, 0]
