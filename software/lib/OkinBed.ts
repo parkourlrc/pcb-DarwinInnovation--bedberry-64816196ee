@@ -3,7 +3,7 @@ import { Logger } from "./Logger";
 
 import { ActuatorCfg, Actuator, ActuatorCmdType } from "./Actuator";
 import { MCP23017, MCP23017PortId, MCP23017Port } from "./MCP23017";
-import { Accelerometer, AccelerometerResult } from "./Accelerometer";
+//import { Accelerometer, AccelerometerResult } from "./Accelerometer";
 import l from "../server/logger";
 
 export interface OkinBedDriveCfg {
